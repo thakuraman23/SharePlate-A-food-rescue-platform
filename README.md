@@ -57,7 +57,7 @@ Steps
 <br>
 <br>
 Clone the Repository
-git clone https://github.com/sh78ba/rescuefood.git
+git clone <repo_name>
 
 Set Up Environment Variables
 Create a .env file and configure:
